@@ -1,0 +1,13 @@
+## Twilio Missed Call Automation (Personal Project)
+
+This repository documents a personal automation workflow built using Twilio Voice and Messaging APIs.
+
+The goal of this project is to:
+- Detect missed inbound phone calls
+- Automatically trigger follow-up SMS messages
+- Capture lead information
+- Route conversations into an automated workflow for scheduling or follow-up
+
+This project is designed for learning and experimentation while building real-world automation systems using Twilio APIs, workflow orchestration tools, and AI agents.
+
+No unsolicited or spam messaging is sent. All messages are transactional or user-initiated.
